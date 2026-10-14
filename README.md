@@ -12,3 +12,9 @@ Här delar jag mina projekt och övningar under utbildningen.
 - Visual Studio Code
 
 Mitt mål är att utvecklas som systemutvecklare och få mer erfarenhet inom IT-branschen.
+
+## 📫 Kontakta mig
+
+Du är välkommen att kontakta mig eller följa min utveckling inom IT och systemutveckling via LinkedIn.
+
+🔗 [Min LinkedIn-profil](https://www.linkedin.com/in/ferozadarwish/)
