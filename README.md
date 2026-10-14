@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hej och välkommen till min GitHub! 👋
 
-<!--
-**FerozaDarwish/FerozaDarwish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar till systemutvecklare inom C# och .NET.
 
-Here are some ideas to get you started:
+Jag har tidigare erfarenhet av administration och bemanningsplanering. Nu utvecklar jag mina kunskaper inom programmering och systemutveckling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Här delar jag mina projekt och övningar under utbildningen.
+
+**Teknik jag lär mig:**
+- C# och .NET
+- Git och GitHub
+- Visual Studio Code
+
+Mitt mål är att utvecklas som systemutvecklare och få mer erfarenhet inom IT-branschen.
